@@ -1,0 +1,48 @@
+{
+  "screens": {
+    "home": {
+      "title": "Home",
+      "subscreens": {
+        "subscreens": {
+          "pokemondetail": {
+            "title": "Pokemon Detail"
+          }
+        },
+        "pokemondetail": {
+          "title": "Pokemon Detail"
+        }
+      }
+    },
+    "about": {
+      "title": "About",
+      "content": {
+        "title-1": "a",
+        "title-2": "APP"
+      }
+    },
+    "settings": {
+      "title": "Settings",
+      "options": {
+        "option-1": {
+          "title": "Change language"
+        },
+        "option-2": {
+          "title": "Change Theme"
+        }
+      },
+      "theme-modal": {
+        "dark-theme": {
+          "title": "Dark theme"
+        },
+        "light-theme": {
+          "title": "Light Theme"
+        },
+        "system-theme": {
+          "title": "Use system theme",
+          "title-2": "Current system theme"
+        }
+      }
+    }
+  },
+  "poke-list-card-link-title": "Click for details"
+}

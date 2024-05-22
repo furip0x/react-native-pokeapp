@@ -1,0 +1,43 @@
+{
+  "screens": {
+    "home": {
+      "title": "Anasayfa",
+      "subscreens": {
+        "pokemondetail": {
+          "title": "Pokemon Detay"
+        }
+      }
+    },
+    "about": {
+      "title": "Hakkında",
+      "content": {
+        "title-1": "bir",
+        "title-2": "UYGULAMASI"
+      }
+    },
+    "settings": {
+      "title": "Ayarlar",
+      "options": {
+        "option-1": {
+          "title": "Dil değiştir"
+        },
+        "option-2": {
+          "title": "Temayı değiştir"
+        }
+      },
+      "theme-modal": {
+        "dark-theme": {
+          "title": "Koyu tema"
+        },
+        "light-theme": {
+          "title": "Aydınlık Teması"
+        },
+        "system-theme": {
+          "title": "Sistem temasını kullan",
+          "title-2": "Mevcut sistem teması"
+        }
+      }
+    }
+  },
+  "poke-list-card-link-title": "Detaylar için tıklayın"
+}
